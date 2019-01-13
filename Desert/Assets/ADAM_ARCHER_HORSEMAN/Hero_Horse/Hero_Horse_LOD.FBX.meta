@@ -1,0 +1,1371 @@
+fileFormatVersion: 2
+guid: 80bbef0ee86e41b4396a6a30c48d774a
+timeCreated: 1462694676
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hero_Horse
+    100004: horse bone_reins
+    100006: horse Head
+    100008: horse HORSEMAN_BONE
+    100010: horse Jaw
+    100012: horse L Calf
+    100014: horse L Clavicle
+    100016: horse L Finger0
+    100018: horse L Foot
+    100020: horse L Forearm
+    100022: horse L Hand
+    100024: horse L HorseLink
+    100026: horse L Thigh
+    100028: horse L Toe0
+    100030: horse L UpperArm
+    100032: horse Neck
+    100034: horse Neck1
+    100036: horse Neck2
+    100038: horse Neck3
+    100040: horse Pelvis
+    100042: horse R Calf
+    100044: horse R Clavicle
+    100046: horse R Finger0
+    100048: horse R Foot
+    100050: horse R Forearm
+    100052: horse R Hand
+    100054: horse R HorseLink
+    100056: horse R Thigh
+    100058: horse R Toe0
+    100060: horse R UpperArm
+    100062: horse Spine
+    100064: horse Spine1
+    100066: horse Spine2
+    100068: horse Tail
+    100070: horse Tail1
+    100072: horse Tail2
+    100074: Horse_Bags
+    100076: horse_BIP
+    100078: horse_BIP stirrup_left
+    100080: horse_BIP stirrup_right
+    100082: horse_BIP z_eye_left
+    100084: horse_BIP z_eye_lRight
+    100086: Horse_Bridle
+    100088: Horse_Harness
+    100090: Horse_mane
+    100092: Horse_Reins
+    100094: Horse_Saddle
+    100096: Horse_Skirt
+    100098: Horse_Stirrup
+    100100: Horse_Tail
+    100102: Horse_Mask
+    100104: Hero_Horse_LOD
+    100106: Horse_Bags_LOD
+    100108: Horse_Bridle_LOD
+    100110: Horse_Harness_LOD
+    100112: Horse_mane_LOD
+    100114: Horse_Mask_LOD
+    100116: Horse_Reins_LOD
+    100118: Horse_Saddle_LOD
+    100120: Horse_Skirt_LOD
+    100122: Horse_Stirrup_LOD
+    100124: Horse_Taill_LOD
+    400000: Hero_Horse
+    400002: //RootNode
+    400004: horse bone_reins
+    400006: horse Head
+    400008: horse HORSEMAN_BONE
+    400010: horse Jaw
+    400012: horse L Calf
+    400014: horse L Clavicle
+    400016: horse L Finger0
+    400018: horse L Foot
+    400020: horse L Forearm
+    400022: horse L Hand
+    400024: horse L HorseLink
+    400026: horse L Thigh
+    400028: horse L Toe0
+    400030: horse L UpperArm
+    400032: horse Neck
+    400034: horse Neck1
+    400036: horse Neck2
+    400038: horse Neck3
+    400040: horse Pelvis
+    400042: horse R Calf
+    400044: horse R Clavicle
+    400046: horse R Finger0
+    400048: horse R Foot
+    400050: horse R Forearm
+    400052: horse R Hand
+    400054: horse R HorseLink
+    400056: horse R Thigh
+    400058: horse R Toe0
+    400060: horse R UpperArm
+    400062: horse Spine
+    400064: horse Spine1
+    400066: horse Spine2
+    400068: horse Tail
+    400070: horse Tail1
+    400072: horse Tail2
+    400074: Horse_Bags
+    400076: horse_BIP
+    400078: horse_BIP stirrup_left
+    400080: horse_BIP stirrup_right
+    400082: horse_BIP z_eye_left
+    400084: horse_BIP z_eye_lRight
+    400086: Horse_Bridle
+    400088: Horse_Harness
+    400090: Horse_mane
+    400092: Horse_Reins
+    400094: Horse_Saddle
+    400096: Horse_Skirt
+    400098: Horse_Stirrup
+    400100: Horse_Tail
+    400102: Horse_Mask
+    400104: Hero_Horse_LOD
+    400106: Horse_Bags_LOD
+    400108: Horse_Bridle_LOD
+    400110: Horse_Harness_LOD
+    400112: Horse_mane_LOD
+    400114: Horse_Mask_LOD
+    400116: Horse_Reins_LOD
+    400118: Horse_Saddle_LOD
+    400120: Horse_Skirt_LOD
+    400122: Horse_Stirrup_LOD
+    400124: Horse_Taill_LOD
+    2300000: Horse_Bridle
+    2300002: Horse_Mask
+    2300004: Horse_Bridle_LOD
+    2300006: Horse_Mask_LOD
+    3300000: Horse_Bridle
+    3300002: Horse_Mask
+    3300004: Horse_Bridle_LOD
+    3300006: Horse_Mask_LOD
+    4300000: Horse_Bridle
+    4300002: Hero_Horse
+    4300004: Horse_mane
+    4300006: Horse_Tail
+    4300008: Horse_Harness
+    4300010: Horse_Saddle
+    4300012: Horse_Bags
+    4300014: Horse_Skirt
+    4300016: Horse_Stirrup
+    4300018: Horse_Reins
+    4300020: Horse_Mask
+    4300022: Horse_Mask_LOD
+    4300024: Horse_Bridle_LOD
+    4300026: Hero_Horse_LOD
+    4300028: Horse_Taill_LOD
+    4300030: Horse_mane_LOD
+    4300032: Horse_Harness_LOD
+    4300034: Horse_Saddle_LOD
+    4300036: Horse_Bags_LOD
+    4300038: Horse_Skirt_LOD
+    4300040: Horse_Stirrup_LOD
+    4300042: Horse_Reins_LOD
+    7400000: horse_Idle_A
+    7400002: horse_Idle_B
+    7400004: horse_bite
+    7400006: horse_kick
+    7400008: horse_looking_around
+    7400010: horse_rear_up
+    7400012: horse_sniff
+    7400014: horse_eating
+    7400016: horse_kick_ground
+    7400018: horse_death
+    7400020: M_horse_galloping
+    7400022: M_horse_jump
+    7400024: M_horse_galloping_turn_left
+    7400026: M_horse_galloping_turn_right
+    7400028: M_horse_running_death
+    7400030: M_horse_swim
+    7400032: M_horse_trot
+    7400034: M_horse_trot_turn_left
+    7400036: M_horse_trot_turn_right
+    7400038: M_horse_walk
+    7400040: M_horse_walk_turn_Left
+    7400042: M_horse_walk_turn_right
+    7400044: M_horse_walk_back
+    7400046: RM_horse_galloping
+    7400048: RM_horse_galloping_turn_left
+    7400050: RM_horse_galloping_turn_right
+    7400052: RM_horse_jump
+    7400054: RM_horse_running_death
+    7400056: RM_horse_swim
+    7400058: RM_horse_trot
+    7400060: RM_horse_trot_turn_left
+    7400062: RM_horse_trot_turn_right
+    7400064: RM_horse_walk
+    7400066: RM_horse_walk_back
+    7400068: RM_horse_walk_turn_Left
+    7400070: RM_horse_walk_turn_right
+    7400072: T-pose
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Hero_Horse
+    13700002: Horse_Bags
+    13700004: Horse_Harness
+    13700006: Horse_mane
+    13700008: Horse_Reins
+    13700010: Horse_Saddle
+    13700012: Horse_Skirt
+    13700014: Horse_Stirrup
+    13700016: Horse_Tail
+    13700018: Hero_Horse_LOD
+    13700020: Horse_Bags_LOD
+    13700022: Horse_Harness_LOD
+    13700024: Horse_mane_LOD
+    13700026: Horse_Reins_LOD
+    13700028: Horse_Saddle_LOD
+    13700030: Horse_Skirt_LOD
+    13700032: Horse_Stirrup_LOD
+    13700034: Horse_Taill_LOD
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: horse_Idle_A
+      takeName: 
+      firstFrame: 2
+      lastFrame: 100
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_Idle_B
+      takeName: 
+      firstFrame: 101
+      lastFrame: 201
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_bite
+      takeName: 
+      firstFrame: 201
+      lastFrame: 241
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_kick
+      takeName: 
+      firstFrame: 242
+      lastFrame: 268
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_looking_around
+      takeName: 
+      firstFrame: 269
+      lastFrame: 394
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_rear_up
+      takeName: 
+      firstFrame: 395
+      lastFrame: 480
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_sniff
+      takeName: 
+      firstFrame: 481
+      lastFrame: 541
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_eating
+      takeName: 
+      firstFrame: 546
+      lastFrame: 646
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_kick_ground
+      takeName: 
+      firstFrame: 651
+      lastFrame: 685
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: horse_death
+      takeName: 
+      firstFrame: 690
+      lastFrame: 716
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_galloping
+      takeName: 
+      firstFrame: 721
+      lastFrame: 736
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_jump
+      takeName: 
+      firstFrame: 737
+      lastFrame: 772
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_galloping_turn_left
+      takeName: 
+      firstFrame: 773
+      lastFrame: 788
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_galloping_turn_right
+      takeName: 
+      firstFrame: 793
+      lastFrame: 808
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_running_death
+      takeName: 
+      firstFrame: 813
+      lastFrame: 853
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_swim
+      takeName: 
+      firstFrame: 858
+      lastFrame: 892
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_trot
+      takeName: 
+      firstFrame: 897
+      lastFrame: 921
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_trot_turn_left
+      takeName: 
+      firstFrame: 922
+      lastFrame: 946
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_trot_turn_right
+      takeName: 
+      firstFrame: 951
+      lastFrame: 975
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_walk
+      takeName: 
+      firstFrame: 981
+      lastFrame: 1014
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_walk_turn_Left
+      takeName: 
+      firstFrame: 1015
+      lastFrame: 1049
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_walk_turn_right
+      takeName: 
+      firstFrame: 1054
+      lastFrame: 1088
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: M_horse_walk_back
+      takeName: 
+      firstFrame: 1093
+      lastFrame: 1127
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_galloping
+      takeName: 
+      firstFrame: 1132
+      lastFrame: 1147
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_galloping_turn_left
+      takeName: 
+      firstFrame: 1152
+      lastFrame: 1167
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_galloping_turn_right
+      takeName: 
+      firstFrame: 1172
+      lastFrame: 1187
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_jump
+      takeName: 
+      firstFrame: 1192
+      lastFrame: 1227
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_running_death
+      takeName: 
+      firstFrame: 1232
+      lastFrame: 1272
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_swim
+      takeName: 
+      firstFrame: 1278
+      lastFrame: 1311
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_trot
+      takeName: 
+      firstFrame: 1316
+      lastFrame: 1340
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_trot_turn_left
+      takeName: 
+      firstFrame: 1345
+      lastFrame: 1369
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_trot_turn_right
+      takeName: 
+      firstFrame: 1374
+      lastFrame: 1398
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_walk
+      takeName: 
+      firstFrame: 1403
+      lastFrame: 1437
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_walk_back
+      takeName: 
+      firstFrame: 1442
+      lastFrame: 1476
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_walk_turn_Left
+      takeName: 
+      firstFrame: 1481
+      lastFrame: 1515
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: RM_horse_walk_turn_right
+      takeName: 
+      firstFrame: 1521
+      lastFrame: 1554
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: T-pose
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hero_Horse
+        weight: 1
+      - path: Horse_Bags
+        weight: 1
+      - path: horse_BIP
+        weight: 1
+      - path: horse_BIP/horse Pelvis
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse L Thigh
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse L Thigh/horse L Calf
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse L Thigh/horse L Calf/horse
+          L HorseLink
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse L Thigh/horse L Calf/horse
+          L HorseLink/horse L Foot
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse L Thigh/horse L Calf/horse
+          L HorseLink/horse L Foot/horse L Toe0
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse R Thigh
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse R Thigh/horse R Calf
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse R Thigh/horse R Calf/horse
+          R HorseLink
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse R Thigh/horse R Calf/horse
+          R HorseLink/horse R Foot
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse R Thigh/horse R Calf/horse
+          R HorseLink/horse R Foot/horse R Toe0
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse HORSEMAN_BONE
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          L Clavicle
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          L Clavicle/horse L UpperArm
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          L Clavicle/horse L UpperArm/horse L Forearm
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          L Clavicle/horse L UpperArm/horse L Forearm/horse L Hand
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          L Clavicle/horse L UpperArm/horse L Forearm/horse L Hand/horse L Finger0
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse bone_reins
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3/horse Head
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3/horse Head/horse Jaw
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3/horse Head/horse_BIP z_eye_left
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3/horse Head/horse_BIP z_eye_lRight
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          Neck1/horse Neck2/horse Neck3/horse Head/Horse_Bridle
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          R Clavicle
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          R Clavicle/horse R UpperArm
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          R Clavicle/horse R UpperArm/horse R Forearm
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          R Clavicle/horse R UpperArm/horse R Forearm/horse R Hand
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse Spine2/horse Neck/horse
+          R Clavicle/horse R UpperArm/horse R Forearm/horse R Hand/horse R Finger0
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse_BIP stirrup_left
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Spine1/horse_BIP stirrup_right
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Tail
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Tail/horse Tail1
+        weight: 1
+      - path: horse_BIP/horse Pelvis/horse Spine/horse Tail/horse Tail1/horse Tail2
+        weight: 1
+      - path: Horse_Harness
+        weight: 1
+      - path: Horse_mane
+        weight: 1
+      - path: Horse_Reins
+        weight: 1
+      - path: Horse_Saddle
+        weight: 1
+      - path: Horse_Skirt
+        weight: 1
+      - path: Horse_Stirrup
+        weight: 1
+      - path: Horse_Tail
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: horse_BIP
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
